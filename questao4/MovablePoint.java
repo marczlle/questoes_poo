@@ -2,7 +2,6 @@ class MovablePoint implements Movable {
     int x, y;
     int xSpeed, ySpeed;
 
-    // Constructor
     public MovablePoint(int x, int y, int xSpeed, int ySpeed) {
         this.x = x;
         this.y = y;
