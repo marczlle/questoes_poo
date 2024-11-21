@@ -1,4 +1,4 @@
-public interface GeometricObject {
+public interface ObjetoGeometrico {
     double getArea();
     double getPerimeter();
 }
