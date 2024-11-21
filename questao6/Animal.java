@@ -1,9 +1,9 @@
 abstract public class Animal {
-    protected String name;
+    protected String nome;
 
-    public Animal(String name) {
-        this.name = name;
+    public Animal(String nome) {
+        this.nome = nome;
     }
 
-    abstract public void greets();
+    abstract public void cumprimentar();
 }
