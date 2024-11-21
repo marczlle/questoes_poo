@@ -1,4 +1,4 @@
 public interface ObjetoGeometrico {
     double getArea();
-    double getPerimeter();
+    double getPerimetro();
 }
