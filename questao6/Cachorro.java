@@ -9,7 +9,7 @@ public class Cachorro extends Animal {
         System.out.println("Au au");
     }
   
-    public void saudar(Cachorro outro) {
+    public void cumprimentar(Cachorro outro) {
         System.out.println("Auuuuuu");
     }
 }
